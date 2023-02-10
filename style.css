@@ -62,7 +62,8 @@ body {
 }
 #container {
   /* border: 1px solid red; */
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* height: 600px; */
  margin: 55px auto 0px;
  padding: 0 24px;
